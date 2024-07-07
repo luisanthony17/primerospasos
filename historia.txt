@@ -13,7 +13,7 @@ estos son linead nuevas que agrege
 =======
 
 CEBECERA NUEVA
-nuevo ingreso numero 2 
+nuevo ingreso numero 20 
 >>>>>>> cabera
 
 
