@@ -9,3 +9,12 @@ que malo que eres
 
 estos son linead nuevas que agrege 
 
+<<<<<<< HEAD
+=======
+
+CEBECERA NUEVA
+nuevo ingreso numero 2 
+>>>>>>> cabera
+
+
+hola esto ya es nuevo 
