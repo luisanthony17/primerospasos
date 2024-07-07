@@ -13,8 +13,9 @@ estos son linead nuevas que agrege
 =======
 
 CEBECERA NUEVA
+
 nuevo ingreso numero 400 
->>>>>>> cabera
+
 
 
 hola esto ya es nuevo 
